@@ -1,4 +1,9 @@
 # Homes++  
+[![Ko-fi](https://raw.githubusercontent.com/Fluxoah/Banners/main/kofi.png)](https://ko-fi.com/fluxoah)
+[![Ko-fi](https://raw.githubusercontent.com/Fluxoah/Banners/main/available_for_paper.png)](https://modrinth.com/plugin/tree-cutter+/versions?l=paper)
+[![Ko-fi](https://raw.githubusercontent.com/Fluxoah/Banners/main/available_for_pupur.png)](https://modrinth.com/plugin/tree-cutter+/versions?l=purpur)
+[![Ko-fi](https://raw.githubusercontent.com/Fluxoah/Banners/main/available_on_modrinth.png)](https://modrinth.com/plugin/tree-cutter+)
+
 Lightweight, survival-focused homes plugin for Paper / Purpur / Spigot / Bukkit (1.21.x).  
 Players can create named homes, teleport with a countdown (cancels on move), and admins can inspect/teleport to player homes using a polished GUI. Works with LuckPerms if present — and **still works without LuckPerms**.
 
