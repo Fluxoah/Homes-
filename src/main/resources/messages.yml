@@ -1,0 +1,33 @@
+prefix: "&9Homes &f| "
+
+home-set: "&9Homes &f| Home &b{home} &fsuccessfully created!"
+home-exists: "&c✘ Homes &f| You already have a home named &b{home}&f."
+home-max: "&c✘ Homes &f| You have reached the maximum number of homes (&b{max}&f)."
+home-not-found: "&c✘ Homes &f| This home &b{home} &fdoes not exist."
+home-deleted: "&9Homes &f| Home &b{home} &fdeleted."
+
+# Unsafe block
+home-forbidden: "&c✘ Homes &f| You cannot set a home there &7[ unsafe location ]."
+
+# Teleport messages
+home-teleport-actionbar: "&9✈ &fTeleporting in &b{time}s &7[do not move]"
+teleport-cancelled-actionbar: "&c✈ Teleport cancelled [ you moved ]"
+teleport-cancelled: "&c✘ Homes &f| Teleport cancelled &7[ you moved ]."
+home-teleported: "&9Homes &f| &9✈ &fTeleported to &b{home}&f!"
+
+# Admin GUI
+admin-item-name: "&9Homes &f| {home}"
+admin-lore-created: "&fCreated: &b{created}"
+admin-safe: "&aStatus: &b{status}"
+admin-dangerous: "&cStatus: &b{status}"
+admin-open: "&9Homes &f| Opened admin view for &b{player}"
+homesadmin-usage: "&c✘ Homes &f| Usage: {usage}"
+
+# Misc
+no-permission: "&c✘ Homes &f| You do not have permission to do that."
+only-players: "&c✘ Homes &f| Only players can run this command."
+usage-sethome: "&9Homes &f| Usage: &b/sethome <name>"
+usage-home: "&9Homes &f| Usage: &b/home <name>"
+your-homes: "&9Homes &f| Your homes:"
+no-homes: "&9Homes &f| You have no homes set. Use &b/sethome <name> &fto add one."
+player-not-found: "&c✘ Homes &f| Player not found."

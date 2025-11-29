@@ -1,0 +1,13 @@
+max-homes: 2
+teleport-delay: 5
+luckperms-integration: true
+colors:
+  prefix_color: "&9"
+  important: "&b"
+
+# Blocks that make a home invalid. Use Material enum names (uppercase).
+# Examples: AIR (if block below player is air -> in the air), LAVA, LAVA_CAULDRON, POINTED_DRIPSTONE
+forbidden-blocks:
+  - "AIR"
+  - "LAVA"
+  - "POINTED_DRIPSTONE"

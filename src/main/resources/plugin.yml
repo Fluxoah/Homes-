@@ -1,0 +1,49 @@
+name: HomesPlusPlus
+main: me.Fluxoah.homePlugin.HomesPlusPlus
+version: 1.0.0
+api-version: 1.21
+description: "Homes++"
+
+softdepend:
+  - LuckPerms
+
+commands:
+  sethome:
+    description: Set a home with a name
+    usage: /sethome <name>
+    permission: homesplusplus.sethome
+    permission-message: "&cYou don't have permission to set homes."
+  delhome:
+    description: Delete a named home
+    usage: /delhome <name>
+    permission: homesplusplus.sethome
+    permission-message: "&cYou don't have permission to delete homes."
+  home:
+    description: Teleport to a named home
+    usage: /home <name>
+    permission: homesplusplus.use
+    permission-message: "&cYou don't have permission to use homes."
+  homes:
+    description: List your homes (clickable chat GUI)
+    usage: /homes
+    permission: homesplusplus.use
+    permission-message: "&cYou don't have permission to view homes."
+  homesadmin:
+    description: Admin view all player homes
+    usage: /homesadmin <player>
+    aliases: [phomes]
+    permission: homesplusplus.admin
+    tab-completer: me.Fluxoah.homePlugin.commands.HomesAdminCommand
+    permission-message: ""
+
+
+permissions:
+  homesplusplus.use:
+    description: Use home commands (/home, /homes)
+    default: true
+  homesplusplus.sethome:
+    description: Create/delete homes (/sethome, /delhome)
+    default: true
+  homesplusplus.admin:
+    description: Admin features (/homesadmin)
+    default: op

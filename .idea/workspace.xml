@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bea03211-e4a5-480b-9bd2-eb527b4f9664" name="Changes" comment="First Commit.">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Fluxoah/homePlugin/AdminInventoryListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Fluxoah/homePlugin/DelHomeCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Fluxoah/homePlugin/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Fluxoah/homePlugin/HomeCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Fluxoah/homePlugin/HomeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Fluxoah/homePlugin/HomeTabCompleter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Fluxoah/homePlugin/HomesAdminCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Fluxoah/homePlugin/HomesCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Fluxoah/homePlugin/HomesPlusPlus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Fluxoah/homePlugin/LuckPerms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Fluxoah/homePlugin/LuckPermsHook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Fluxoah/homePlugin/SetHomeCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/Fluxoah/homePlugin/TeleportManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/messages.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="367wz5ie4Eg3Pkhpo3bHyVynbcp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.home-plugin [clean,package].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="me.Fluxoah.homePlugin" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28238.7" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bea03211-e4a5-480b-9bd2-eb527b4f9664" name="Changes" comment="" />
+      <created>1764371178880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764371178880</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1764434370787</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764434370790</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Made it so the plugin will still work even without Luckperms">
+      <option name="closed" value="true" />
+      <created>1764436741954</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1764436741954</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:net.kyori:adventure-api" />
+    <option featureType="dependencySupport" implementationName="java:io.papermc.paper:paper-api" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <MESSAGE value="Made it so the plugin will still work even without Luckperms" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made it so the plugin will still work even without Luckperms" />
+  </component>
+</project>
